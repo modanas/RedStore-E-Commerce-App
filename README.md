@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱I'm currently learning Full Stack Developement<br>👯‍♂️I'm looking to collaborate on some Real-Time Projects<br>💬Ask me anything<br>⚡Fun fact is that i loved building new stuffs everyday
+🌱I'm currently learning Full Stack Developement<br>👯‍♂️I'm looking to collaborate on some Real-Time Projects<br>💬Ask me anything<br>⚡Fun fact is that i love building new stuffs everyday
 
 
 ## 🌐 Socials:
